@@ -23,15 +23,16 @@ Installation
 
 ### Build Debug version ###
 
-  rake debug
+  `rake debug`
 
-  rake installd && rake logcat
+  `rake installd && rake logcat`
 
 
 Credits
 -------
 
 Marko Kocić <https://github.com/markokocic/android-notepad-mirah>
+
 Edison Heng <http://www.codeproject.com/Articles/524204/Simple-notepad-for-Android>
 
 
@@ -39,7 +40,7 @@ Edison Heng <http://www.codeproject.com/Articles/524204/Simple-notepad-for-Andro
 License
 -------
 
-Copyright (C) 2013 Michelangelo Altamore. 
+Copyright (C) 2013 Michelangelo Altamore
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
