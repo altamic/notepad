@@ -26,10 +26,6 @@ class Notepad < ListActivity
     @@DELETE_ID = Menu.FIRST + 1
   end
 
-  def initialize
-    @noteNumber = 1
-  end
-
   def onCreate(state):void
     super state
     setContentView R.layout.notepad
